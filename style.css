@@ -266,6 +266,7 @@
  .text .typing {
      font-weight: bold;
  }
+.description {transform: none;}
 
  .home .content p {
      padding: 1rem 0;

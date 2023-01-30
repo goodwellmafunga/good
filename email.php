@@ -5,7 +5,7 @@ if (isset($_POST['email'])) {
   $email = $_POST['email'];
   $message = $_POST['message'];
 
-  $to = "recipient@email.com"; // Change to your email address
+  $to = "mafungag2@gmail.com"; 
   $subject = "New Contact Form Submission";
   $body = "From: $name\nEmail: $email\nMessage:\n$message";
 

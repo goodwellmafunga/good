@@ -50,8 +50,9 @@ $(document).ready(function(){
 var typed = new Typed(".typing", {
   strings: [
     "<span style='color:crimson;'>Python Developer </span>",
-    "<span style='color:#00a8ff;'>Web Developer </span>",
+    "<span style='color:#00a8ff;'>Data Engineer (DP203) </span>",
     "<span style='color:#00b894;'>Data Analyst</span>",
+    "<span style='color:#00b894;'>AI Developer</span>",
   ],
   typeSpeed: 100,
   backSpeed: 60,

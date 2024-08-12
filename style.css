@@ -158,7 +158,7 @@
      padding-right: 4rem;
      z-index: 999;
      border: 0.2rem solid var(--main-color);
-     border-radius: 1000px;
+     border-radius: 10px;
      background: var(--primary-bg-color);
      opacity: 0;
      transform-origin: top right;
